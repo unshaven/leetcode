@@ -3,7 +3,7 @@
 #author :wuji
 #data:2018-2-2
 #difficulty degree：
-#problem: 168_Excel Sheet Column Title
+#problem: 169_Majority Element
 #time_complecity:  
 #space_complecity: 
 #beats: 
