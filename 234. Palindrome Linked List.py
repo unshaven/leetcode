@@ -27,7 +27,7 @@ Could you do it in O(n) time and O(1) space?
       fast = fast.next
     if fast:  #奇数个
  
-
+o(n)时间 o(1)空间
 class Solution2:
     def isPalindrome(self, head):
         """
